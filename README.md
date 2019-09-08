@@ -1,4 +1,6 @@
-# Work from Udemy course: https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
+# Ethereum smart contract - lottery
+
+Work from Udemy course: https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
 
 npm install --save solc
 npm install --save mocha
